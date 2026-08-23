@@ -1,0 +1,6 @@
+id=note8_usb3_phy_recovery
+name=Note8 USB3 Dock PHY Recovery
+version=v3.1
+versionCode=310
+author=aroxu
+description=Recovers USB 3.x SuperSpeed on an already-connected VIA USB-C dock after boot by checking the RTL8153 USB link speed and power-cycling the Exynos DWC3 host only when needed.
